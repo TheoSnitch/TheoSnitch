@@ -4,8 +4,8 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/TheoSnitch/TheoSnitch?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TheoSnitch/TheoSnitch?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/TheoSnitch/TheoSnitch?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
