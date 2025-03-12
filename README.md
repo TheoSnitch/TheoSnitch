@@ -12,8 +12,8 @@ class WhoAmI:
                 'Exploring tech'
              ]
 
-    def getCity():
-        return 'Moss'
+    def getCountry():
+        return 'Norway'
 
     def Ambitions():
         BecomeFullStackDeveloper()
