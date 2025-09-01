@@ -1,7 +1,7 @@
 ## Who am I?
 
 class WhoAmI:
-    user = 'theosnitch'
+    user = 'btw'
     currently_learning = "HTML"
     fun_fact = "I'm a Minecraft server developer"
 
